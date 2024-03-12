@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using HegnTilbudApi.Model;
+using HegnTilbudApi.Data;
 
 namespace HegnTilbudApi
 {
@@ -6,6 +9,9 @@ namespace HegnTilbudApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<HegnTilbudContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("SurfAndTurfContext") ?? throw new InvalidOperationException("Connection string 'SurfAndTurfContext' not found.")));
+
 
             // Add services to the container.
 
