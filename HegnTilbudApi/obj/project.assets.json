@@ -2034,7 +2034,17 @@
         }
       },
       "Newtonsoft.Json/13.0.3": {
-        "type": "package"
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
       },
       "NuGet.Common/6.3.1": {
         "type": "package",
@@ -6820,6 +6830,22 @@
         ".signature.p7s",
         "LICENSE.md",
         "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
         "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
@@ -8425,19 +8451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\timkb\\.nuget\\packages\\": {}
+    "C:\\Users\\olive\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timkb\\source\\repos\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
       "projectName": "HegnTilbudApi",
-      "projectPath": "C:\\Users\\timkb\\source\\repos\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
-      "packagesPath": "C:\\Users\\timkb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timkb\\source\\repos\\HegnAPI\\HegnTilbudApi\\obj\\",
+      "projectPath": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
+      "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\timkb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
