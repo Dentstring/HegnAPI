@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HegnTilbudApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+282d670811d370455226a3a79ba04397ce006a9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HegnTilbudApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HegnTilbudApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

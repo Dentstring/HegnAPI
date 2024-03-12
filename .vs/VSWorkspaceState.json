@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\HegnTilbudApi",
-    "\\HegnTilbudApi\\bin",
-    "\\HegnTilbudApi\\Controllers",
-    "\\HegnTilbudApi\\obj",
-    "\\HegnTilbudApi\\Properties"
+    ""
   ],
-  "SelectedNode": "\\HegnTilbudApi\\HegnTilbudApi.sln",
+  "SelectedNode": "\\HegnTilbudApi.sln",
   "PreviewInSolutionExplorer": false
 }
