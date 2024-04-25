@@ -8,6 +8,7 @@ namespace HegnTilbudApi.Model
         private const decimal unitPrice = 386.00m; 
         private const int minimumOrderQuantity = 25; 
 
+        public int ID { get; set; }
         public string Description { get; private set; }
         public int Quantity { get; private set; }
         public string Unit { get; private set; } 
