@@ -8451,19 +8451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\olive\\.nuget\\packages\\": {}
+    "C:\\Users\\timkb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
+      "projectUniqueName": "C:\\Users\\timkb\\Source\\Repos\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
       "projectName": "HegnTilbudApi",
-      "projectPath": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
-      "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\source\\repos\\Dentstring\\HegnAPI\\HegnTilbudApi\\obj\\",
+      "projectPath": "C:\\Users\\timkb\\Source\\Repos\\HegnAPI\\HegnTilbudApi\\HegnTilbudApi.csproj",
+      "packagesPath": "C:\\Users\\timkb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\timkb\\Source\\Repos\\HegnAPI\\HegnTilbudApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\timkb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
